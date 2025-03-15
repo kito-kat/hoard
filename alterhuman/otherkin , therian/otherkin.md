@@ -2,6 +2,7 @@
 tags:
   - otherkin
   - alterhuman
+  - key_label
 aliases: 
 ---
 ![otherkin.png](../../images/otherkin.png)  
