@@ -10,4 +10,4 @@ tags:
 aliases: 
 ---
 ![catkin.png](../../images/catkin.png)  
-A flag for [otherkin](./otherkin.md), therians, otherkind, [nonhuman](../nonhuman/nonhuman.md)s, etc. Who are cats or kittens. (Can also apply to those who are any other kind of feline)
+A flag for [otherkin](./otherkin.md), [therian](./therian.md)s, otherkind, [nonhuman](../nonhuman/nonhuman.md)s, etc. Who are cats or kittens. (Can also apply to those who are any other kind of feline)
