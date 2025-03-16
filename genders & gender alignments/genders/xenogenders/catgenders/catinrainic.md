@@ -14,5 +14,5 @@ tags:
   - rain
 aliases: 
 ---
-![IMG_0831](../../../../IMG_0831.png)  
+![catinrainic.png](../../../../images/catinrainic.png)  
 an inrainic variant of catgender. a catgender connected to dark rainy days, sitting inside a warm house and watching rain on the window glass.
